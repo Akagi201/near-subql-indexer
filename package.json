@@ -20,7 +20,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "@subql/common": "^1.6.0",
+    "@subql/common": "^2.1.1",
     "@subql/types-near": "^1.0.1",
     "assert": "^2.0.0"
   },
